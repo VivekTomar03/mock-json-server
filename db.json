@@ -68,8 +68,8 @@
         "price":"Rs 70.",
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.7,
-         "Brand Description":"Rexall",
-         "Unit Size":"300 each",
+         "Brand_Description":"Rexall",
+         "Unit_Size":"300 each",
          "image":"https://dggo.dollargeneral.com/images/00/62/00624701_0.jpg"
 
       }
@@ -81,8 +81,8 @@
         "price":"Rs 500",
         "description":"Collect Iron Man, Thor, Spider-Man, Hulk, Black Panther, and more (Each sold separately. Subject to availability.)! With Marvel, anyone can imagine battling alongside their favorite heroes and defending the world against evil villains. With countless characters across a more than 80-year history, Marvel lets kids and fans alike imagine using their powers for good among the ranks of classic Marvel heroes and villains.",
          "rating":4.7,
-         "Brand Description":"Marvel",
-         "Unit Size":"1.0 each",
+         "Brand_Description":"Marvel",
+         "Unit_Size":"1.0 each",
          "image":"https://dggo.dollargeneral.com/images/22/93/22937501_0.jpg"
 
       }
