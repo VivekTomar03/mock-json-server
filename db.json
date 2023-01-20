@@ -65,7 +65,7 @@
       {
         "id":1,
         "name":"Vitavalue Probiotic Tablets, 30 Count",
-        "price":"Rs 70.",
+        "price":70,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.7,
          "Brand_Description":"Rexall",
@@ -76,7 +76,7 @@
         {
         "id":2,
         "name":"Rexall Glucosamine Chondroitin With Msm Caplets, 60 Count",
-        "price":"Rs 90.",
+        "price":90,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.9,
          "Brand_Description":"Rexall",
@@ -87,7 +87,7 @@
       {
         "id":3,
         "name":"Vitavalue Energy Tablets, 30 Count",
-        "price":"Rs 100.",
+        "price":100,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":3.5,
          "Brand_Description":"Rexall",
@@ -98,7 +98,7 @@
       {
         "id":4,
         "name":"Rexall Echinacea 400 Mg - Capsules- 60 Ct",
-        "price":"Rs 400.",
+        "price":400,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -109,7 +109,7 @@
       {
         "id":5,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -120,7 +120,7 @@
       {
         "id":6,
         "name":"Emergen-C 1000mg Vitamin C Dietary Supplement",
-        "price":"Rs 400.",
+        "price":400,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -131,7 +131,7 @@
       {
         "id":7,
         "name":"Nature'S Bountyâ® Optimal Solutions Hair, Skin, Nails, 40 Gummies",
-        "price":"Rs 700.",
+        "price":700,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
@@ -142,7 +142,7 @@
       {
         "id":8,
         "name":"Rexall Naturalist Liquid Filled Calcium 600mg + D Softgels, 60 Ct.",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
@@ -153,7 +153,7 @@
       {
         "id":9,
         "name":"Rexall Naturalist Vitamin B Complex With B12 Liquid, 2 Oz",
-        "price":"Rs 500.",
+        "price":500,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
@@ -164,7 +164,7 @@
       {
         "id":10,
         "name":"Rexall Ginkgo Biloba 120mg, 60ct",
-        "price":"Rs 500.",
+        "price":500,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
@@ -175,7 +175,7 @@
       {
         "id":11,
         "name":"Vitavalue Probiotic Tablets, 30 Count",
-        "price":"Rs 70.",
+        "price":701,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.7,
          "Brand_Description":"Rexall",
@@ -186,7 +186,7 @@
       {
         "id":12,
         "name":"Rexall Glucosamine Chondroitin With Msm Caplets, 60 Count",
-        "price":"Rs 90.",
+        "price":906,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.9,
          "Brand_Description":"Rexall",
@@ -197,7 +197,7 @@
       {
         "id":13,
         "name":"Vitavalue Energy Tablets, 30 Count",
-        "price":"Rs 100.",
+        "price":10,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":3.5,
          "Brand_Description":"Rexall",
@@ -208,7 +208,7 @@
       {
         "id":14,
         "name":"Rexall Echinacea 400 Mg - Capsules- 60 Ct",
-        "price":"Rs 400.",
+        "price":409,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -219,7 +219,7 @@
       {
         "id":15,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -230,7 +230,7 @@
       {
         "id":16,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -241,7 +241,7 @@
       {
         "id":17,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -252,7 +252,7 @@
       {
         "id":18,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":806,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -264,7 +264,7 @@
       {
         "id":19,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":897,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -275,7 +275,7 @@
       {
         "id":20,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":785,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -286,7 +286,7 @@
       {
         "id":21,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":123,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -297,7 +297,7 @@
       {
         "id":22,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -308,7 +308,7 @@
       {
         "id":23,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":752,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -319,7 +319,7 @@
       {
         "id":24,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":237,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -330,7 +330,7 @@
       {
         "id":25,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":789,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -341,7 +341,7 @@
       {
         "id":26,
         "name":"Vitavalue Probiotic Tablets, 30 Count",
-        "price":"Rs 70.",
+        "price":8080,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.7,
          "Brand_Description":"Rexall",
@@ -352,7 +352,7 @@
       {
         "id":27,
         "name":"Rexall Glucosamine Chondroitin With Msm Caplets, 60 Count",
-        "price":"Rs 90.",
+        "price":3000,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.9,
          "Brand_Description":"Rexall",
@@ -363,7 +363,7 @@
       {
         "id":28,
         "name":"Vitavalue Energy Tablets, 30 Count",
-        "price":"Rs 100.",
+        "price":89,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":3.5,
          "Brand_Description":"Rexall",
@@ -374,7 +374,7 @@
       {
         "id":29,
         "name":"Rexall Echinacea 400 Mg - Capsules- 60 Ct",
-        "price":"Rs 400.",
+        "price":2000,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -385,7 +385,7 @@
       {
         "id":30,
         "name":"Azo Cranberry Urinary Tract Health Caplets - 20ct",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -396,7 +396,7 @@
       {
         "id":31,
         "name":"Emergen-C 1000mg Vitamin C Dietary Supplement",
-        "price":"Rs 400.",
+        "price":400,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.5,
          "Brand_Description":"Rexall",
@@ -407,7 +407,7 @@
       {
         "id":32,
         "name":"Nature'S Bountyâ® Optimal Solutions Hair, Skin, Nails, 40 Gummies",
-        "price":"Rs 700.",
+        "price":700,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
@@ -418,7 +418,7 @@
       {
         "id":33,
         "name":"Rexall Naturalist Liquid Filled Calcium 600mg + D Softgels, 60 Ct.",
-        "price":"Rs 800.",
+        "price":800,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
@@ -429,7 +429,7 @@
       {
         "id":34,
         "name":"Rexall Naturalist Vitamin B Complex With B12 Liquid, 2 Oz",
-        "price":"Rs 500.",
+        "price":500,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
@@ -440,7 +440,7 @@
       {
         "id":35,
         "name":"Rexall Ginkgo Biloba 120mg, 60ct",
-        "price":"Rs 500.",
+        "price":500,
         "description":"Used as a supplement, Rexall®'s Magnesium 500 mg tablets support bone and muscle health.",
          "rating":4.1,
          "Brand_Description":"Rexall",
